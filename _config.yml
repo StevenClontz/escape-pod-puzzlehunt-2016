@@ -1,0 +1,11 @@
+# Site settings
+title: Von Braun's Puzzlehunt
+header-img: "http://www.escapepodgame.com/resources/images/rooms/braun-header4.jpg"
+email: steven.clontz@gmail.com
+description: "A puzzlehunt"
+baseurl: ""
+url: "http://stevenclontz.github.io/escape-pod-puzzlehunt-2016/"
+
+# Build settings
+markdown: kramdown
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

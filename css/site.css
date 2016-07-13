@@ -1,0 +1,527 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,600italic,400italic);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+
+/* Media Queries */
+@media (max-width: 992px) {
+}
+
+/*** General ***/
+
+body {
+   font-family: 'Open Sans', sans-serif;
+   font-size: 100%;
+   font-weight: normal;
+   color: #fff;
+}
+
+nav {
+   width: 100vw;
+   height: 100px;
+   background-color: rgba(255,255,255,1);
+}
+
+nav ul,
+nav ul li p {
+   -webkit-padding-start: 0;
+   margin: 0;
+}
+
+nav ul li {
+   display: inline;
+   line-height: 100px;
+}
+
+nav ul:first-child li {
+   margin-right: 24px;
+}
+
+nav ul li img { vertical-align: middle; }
+
+nav ul li a {
+   font-size: 0.875em;
+   color: #231F20;
+   font-weight: 600;
+   text-decoration: none;
+}
+
+/* ORIGINAL
+header {
+   width: 100vw;
+   height: calc(100vh - 100px);
+   background-color: rgba(255,0,0,.5);
+   background-image: url("../resources/images/slider/slide1.jpg");
+   background-position: center;
+   background-size: cover;
+}
+@media (max-width: 992px) {
+   header {
+      height: auto;
+      min-height: 480px;
+      max-height: 720px;
+      text-align: center;
+   }
+}
+header .overlay {
+   height: 100%;
+   background-image: -webkit-linear-gradient(top right, rgba(35,31,32,0.00) 0%, #231F20 100%);
+   background-image: -o-linear-gradient(top right, rgba(35,31,32,0.00) 0%, #231F20 100%);
+   background-image: linear-gradient(to bottom left, rgba(35,31,32,0.00) 0%, #231F20 100%);
+}
+@media (max-width: 992px) {
+   header .overlay {
+      height: auto;
+      min-height: 480px;
+      max-height: 720px;
+   }
+}
+
+header h1 { margin-top: 30vh; }
+@media (max-width: 992px) {
+   header h1 { margin-top: 15vh; }
+   header .lead { margin-bottom: 80px; }
+}
+*/
+
+/* FIRST SLIDER ATTEMPT
+header {
+   width: 100vw;
+   height: calc(100vh - 100px);
+   background-color: #f1f1f1;
+}
+
+header ul {
+   -webkit-padding-start: 0;
+}
+
+.hero-slider {
+   width: 100vw;
+   height: calc(100vh - 100px);
+   position: relative;
+   overflow: auto;
+}
+
+.hero-slider li {
+   list-style: none;
+}
+.hero-slider ul li {
+   float: left;
+}
+
+.hero-slide-1 {
+   background-image: url("../resources/images/slider/slide1.jpg");
+   background-position: center;
+   background-size: cover;
+   width: 100%;
+   height: calc(100vh - 100px);
+}
+
+.hero-slide-2 {
+   background-image: url("../resources/images/slider/slide2.jpg");
+   background-position: center;
+   background-size: cover;
+   width: 100%;
+   height: calc(100vh - 100px);
+}
+*/
+
+header {
+   width: 100vw;
+   height: calc(100vh - 100px);
+   background-color: #f1f1f1;
+   overflow: hidden;
+   z-index: 5;
+}
+
+@media (max-width: 992px) {
+   header {
+      height: auto;
+      min-height: 480px;
+      max-height: 720px;
+      text-align: center;
+   }
+}
+
+header .overlay {
+   height: 100%;
+   background-image: -webkit-linear-gradient(top right, rgba(35,31,32,0.00) 0%, #231F20 100%);
+   background-image: -o-linear-gradient(top right, rgba(35,31,32,0.00) 0%, #231F20 100%);
+   background-image: linear-gradient(to bottom left, rgba(35,31,32,0.00) 0%, #231F20 100%);
+}
+@media (max-width: 992px) {
+   header .overlay {
+      height: auto;
+      min-height: 480px;
+      max-height: 720px;
+   }
+}
+header h1 { margin-top: 30vh; }
+@media (max-width: 992px) {
+   header h1 { margin-top: 10vh; }
+   header .lead { margin-bottom: 80px; }
+}
+
+.slide {
+   width: 100%;
+   height: calc(100vh - 100px);
+}
+
+@media (max-width: 992px) {
+   .slide {
+      height: auto;
+      min-height: 480px;
+      max-height: 720px;
+   }
+}
+
+.slide-1 {
+   background-image: url("../resources/images/slider/slide1.jpg");
+   background-position: center;
+   background-size: cover;
+}
+
+.slide-2 {
+   background-image: url("../resources/images/slider/slide2.jpg");
+   background-position: center;
+   background-size: cover;
+}
+
+/* END SLIDER */
+
+footer { background-color: #231F20; padding: 40px; }
+   footer p { display: inline; margin-right: 32px; }
+      footer p a { color: #fff; }
+@media (max-width: 992px) {
+   footer { text-align: center; }
+      footer p:first-child { display: block; }
+         footer p a.right { display: none; }
+}
+
+/*** Fonts ***/
+
+h1,h2,h3 { font-family: 'Slabo 27px', serif; font-weight: 400; }
+h1 { font-size: 3.000em; }
+h2 { font-size: 3.000em; }
+h3 { font-size: 1.750em; margin-top: 12px; margin-bottom: 12px; }
+h4 { font-size: 1.500em; font-weight: 600; font-style: italic; margin: 0; margin-top: 8px; }
+h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
+
+/* TODO: Fix this lazy shit. */
+
+.lead { font-size: 1.125em; }
+
+.who .lead, .rooms .lead, .contact .lead {
+   margin-bottom: 60px;
+}
+
+
+/*** Sections ***/
+
+.what {  }
+
+@media (max-width: 992px) {
+   .what { padding: 60px 0; text-align: center; }
+}
+
+.what h2 { margin-top: 160px; }
+@media (max-width: 992px) {
+   .what h2 { margin-top: 0; }
+}
+
+.who { padding-top: 100px; }
+   .who .order { padding-top: 40px; }
+      .who .order h4 { margin-bottom: 40px;}
+
+@media (max-width: 992px) {
+   .who { padding-top: 20px; text-align: center;}
+}
+
+.rooms {
+   padding-top: 60px;
+   padding-bottom: 120px;
+   text-align: center;
+}
+
+.rooms .card { background-color: initial; }
+
+@media (min-width: 769px) {
+   .rooms {
+   background-image: url("../resources/images/rooms/braun_bg.png");
+   background-position: center;
+   background-size: cover;
+   }
+}
+
+@media (max-width: 992px) {
+   .rooms { padding-top: 0; padding-bottom: 0; }
+}
+
+.contact {
+   padding-top: 60px;
+   padding-bottom: 100px;
+   }
+   .contact h2, .contact .lead { text-align: center; }
+
+@media (max-width: 992px) {
+   .contact { padding-top: 20px; padding-bottom: 40px; }
+}
+
+.ticket {
+   padding: 64px 0;
+}
+@media (max-width: 992px) {
+   .ticket { background-color: #231F20; text-align: center; }
+   .ticket h4 { margin-bottom: 40px; }
+   .ticket p:last-child { margin-top: 40px;}
+}
+
+
+/*** Backgrounds ***/
+
+.bg-orange { background: #C74A22; background-image: linear-gradient(-206deg, rgba(255,255,255,0.15) 5%, rgba(0,0,0,0.15) 100%); }
+.bg-black { background: #231F20; background-image: linear-gradient(-153deg, rgba(255,255,255,0.15) 5%, rgba(0,0,0,0.15) 100%); }
+
+/*** Cards ***/
+
+.card {
+   background: #ffffff;
+   box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.25);
+   border-radius: 20px;
+   color: #2E2A2B;
+   overflow: hidden;
+   transition-duration: .2s;
+   z-index: 15;
+   position: relative;
+}
+
+/* TODO: Revisit this hover. Just added it, but need to style it properly */
+.card:hover {
+   box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.35);
+   transform: scale(1.02);
+}
+
+@media (max-width: 992px) {
+   .card:hover { transform: scale(1); }
+}
+
+/** Card What **/
+.card-feature { padding: 40px; margin-bottom: 40px; }
+@media (max-width: 992px) {
+   .card-feature { margin-bottom: 0; margin-top: 30px; }
+}
+.card-feature:first-child { margin-top: -40px; }
+@media (max-width: 992px) {
+   .card-feature:first-child { margin-top: 20px; }
+}
+.card-feature:last-child { margin-bottom: -40px; }
+.card-feature .lead { font-weight: 600; }
+
+/** Card Who **/
+.card-who {
+   min-height: 250px;
+   height: auto;
+   width: 100%;
+   margin-bottom: 30px;
+   }
+   .card-who:last-child { margin-bottom: -30px; }
+   @media (max-width: 992px) {
+      .card-who:last-child { margin-bottom: 30px; }
+   }
+   .card-who .icon-box {
+      min-height: 250px;
+      height: auto;
+      background-color: #f1f1f1;
+      border-radius: 20px 0 0 20px;
+      text-align: center;
+      line-height: 250px;
+   }
+   @media (max-width: 992px) {
+      .card-who .icon-box { border-radius: 20px 20px 0 0; }
+   }
+   .card-who .content { padding: 32px 40px 0 10px; }
+   @media (max-width: 992px) {
+      .card-who .content { padding: 32px 40px; }
+   }
+
+   .card-who .icon-box img { vertical-align: middle; }
+
+/** Card Room **/
+.card-room {  }
+   .card-room .header {
+      width: 100%;
+      min-height: 320px;
+      height: auto;
+      position: relative;
+      border-radius: 20px 20px 0 0;
+      }
+      .card-room .header .overlay {
+         width: 100%;
+         min-height: 320px;
+         height: 100%;
+         border-radius: 20px 20px 0 0;
+         background-image: linear-gradient(-225deg, rgba(35,31,32,0.00) 0%, #231F20 100%);
+         line-height: 320px;
+         }
+         .card-room .header .overlay .logo {
+            /*position: absolute;
+            top: 50%;
+             -webkit-transform: translate(-50%, -0%);
+                 -ms-transform: translate(-50%, -0%);
+                     transform: translate(-50%, -0%);*/
+                     vertical-align: middle;
+         }
+   .card-room .content { background-color: #fff; padding: 40px; }
+      .card-room .content p:first-of-type { margin-bottom: 40px; }
+
+@media (max-width: 992px) {
+   .card-room { margin-bottom: 40px;}
+}
+
+.card-room .braun { background-image: url("../resources/images/rooms/braun.png"); background-position: center; background-size: cover; }
+.card-room .spy { background-image: url("../resources/images/rooms/spy.png"); background-position: center; background-size: cover; }
+.card-room .wonderland { background-image: url("../resources/images/rooms/wonderland.png"); background-position: center; background-size: cover; }
+
+/** Card Contact **/
+.card-contact { min-height: 330px; margin-bottom: 80px; }
+   .card-contact .content { padding: 40px; }
+      .card-contact .content p:first-of-type { margin-bottom: 40px; }
+   .card-contact .map {  }
+
+@media (max-width: 992px) {
+   .card-contact {
+      margin-bottom: 40px;
+   }
+}
+
+.social-box { background-color: #fff; width: 48px; height: 48px; line-height: 48px; border-radius: 20px; display: inline-block; text-align: center; margin: 0 10px; }
+   .social-box .social-icon { vertical-align: middle; margin-top: -2px; }
+
+
+/*** Buttons ***/
+.btn { text-decoration: none; padding: 14px 24px; border-radius: 48px; transition-duration: .25s; }
+.btn-primary { color: #fff; background-color: #C74A22; box-shadow: 0px 5px 20px 0px rgba(0,0,0,.25); }
+.btn-secondary { color: #C74A22; background-color: #fff; box-shadow: 0px 5px 20px 0px rgba(0,0,0,.25); }
+.btn-tertiary { color: #fff; background-color: #231F20; }
+.btn-disabled { color: #959595; background-color: #e5e5e5; cursor: default; }
+
+.btn-primary:hover, .btn-secondary:hover { box-shadow: 0px 0px 30px 0px rgba(0,0,0,.45); }
+
+
+/*** Helpers ***/
+
+/** Text Align Classes **/
+.txt-left{text-align:left;}
+.txt-right{text-align:right;}
+.txt-center{text-align:center;}
+.txt-justify{text-align:justify;}
+
+/** Floats **/
+.left{float:left;}
+.right{float:right;}
+
+/** Clearfix **/
+/**
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    contenteditable attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that are clearfixed.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+.cf:after{clear:both;}
+/**
+ * For IE 6/7 only
+ * Include this rule to trigger hasLayout and contain floats.
+ */
+.cf{*zoom:1;}
+
+
+/*** Map ***/
+#google-container {
+  position: relative;
+  width: 100%;
+  min-height: 330px;
+  border-radius: 0 20px 20px 0;
+}
+@media (max-width: 992px) {
+   #google-container { border-radius: 0 0 20px 20px; }
+}
+@media only screen and (min-width: 768px) {
+  #google-container {
+    min-height: 330px;
+  }
+}
+@media only screen and (min-width: 1170px) {
+  #google-container {
+    min-height: 330px;
+  }
+}
+
+#cd-google-map {
+  position: relative;
+}
+
+
+
+/*** Rooms ***/
+.room {  }
+
+.room nav { background-color: rgba(255,255,255,.25); position: absolute; z-index: 20; }
+
+.room header { height: 100vh; text-align: center; }
+
+@media (max-width: 992px) {
+   .room header {
+      height: auto;
+      min-height: 480px;
+      max-height: 720px;
+      text-align: center;
+   }
+}
+.room .slide {
+   width: 100%;
+   height: 100vh;
+}
+@media (max-width: 992px) {
+   .room .slide {
+      height: auto;
+      min-height: 480px;
+      max-height: 720px;
+   }
+}
+
+.room header img { margin-top: 25vh; }
+.room header h1 { margin-top: 60px; font-size: 1.750em; }
+@media (max-width: 992px) {
+   .room header img { margin-top: 140px; }
+   .room header h1 { margin-top: 60px; margin-bottom: 80px; }
+}
+
+.room-braun {
+   background-image: url("../resources/images/rooms/braun-header4.jpg");
+   background-position: top;
+   background-size: cover;
+}
+
+.room-spy{
+   background-image: url("../resources/images/rooms/spy-lair2.png");
+   background-position: top;
+   background-size: cover;
+}
+
+@media (max-width: 992px) {
+   .what { text-align: initial; }
+}
+
+.what .order { padding-top: 100px; }
+   .what .order h4 { margin-bottom: 40px;}
+   .what .order p { margin-bottom: 80px;}
+
+@media (max-width: 992px) {
+   .what .order p { margin-bottom: 20px;}
+}
