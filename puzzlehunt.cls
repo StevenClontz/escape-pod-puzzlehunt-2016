@@ -122,6 +122,7 @@
 
 % Hyperlinks
 \RequirePackage[hidelinks]{hyperref}
+\newcommand{\phUrl}[1]{\(\langle\)\url{#1}\(\rangle\)}
 
 
 % that's all folks
