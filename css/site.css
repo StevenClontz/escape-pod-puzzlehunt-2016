@@ -376,9 +376,9 @@ h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
    .card-room { margin-bottom: 40px;}
 }
 
-.card-room .braun { background-image: url("../resources/images/rooms/braun.png"); background-position: center; background-size: cover; }
-.card-room .spy { background-image: url("../resources/images/rooms/spy.png"); background-position: center; background-size: cover; }
-.card-room .wonderland { background-image: url("../resources/images/rooms/wonderland.png"); background-position: center; background-size: cover; }
+.card-room .braun { background-image: url("/img/braun-room.png"); background-position: center; background-size: cover; }
+.card-room .spy { background-image: url("/img/spy-room.png"); background-position: center; background-size: cover; }
+.card-room .wonderland { background-image: url("/img/wonderland-room.png"); background-position: center; background-size: cover; }
 
 /** Card Contact **/
 .card-contact { min-height: 330px; margin-bottom: 80px; }
@@ -503,7 +503,7 @@ h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
 }
 
 .room-braun {
-   background-image: url("../resources/images/rooms/braun-header4.jpg");
+   background-image: url("/img/puzzlehunt-header.jpg");
    background-position: top;
    background-size: cover;
 }
