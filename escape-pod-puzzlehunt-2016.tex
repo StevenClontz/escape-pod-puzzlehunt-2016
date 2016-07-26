@@ -1,8 +1,13 @@
 \documentclass{puzzlehunt}
 
+\usepackage{tikz-qtree}
+\usepackage{amssymb}
+
 \title{Von Braun's Puzzlehunt: Agent's Fieldbook}
 \author{Escape Pod}
 \date{\today}
+
+\phSetSquareLogo{escape-pod-logo.png}
 
 
 \begin{document}
@@ -193,24 +198,164 @@ will help you decipher these mysterious documents. Good luck!
 
 \phWorksheet{Item A}
 
-  Scrambled word search
+  VBC von Braun plaque; Scrambled word search
+
+  On website, players get a list of tuples designating the line/word
+  which should be found in the scrambled word search. One word is designated
+  on the website and on the paper. (These words should be long.)
+  The places these words cross is a clue.
 
 \phWorksheet{Item B}
 
-  Skyline puzzles
+  Lowe Mill; Skyline puzzles
+
+  The Skyline puzzles are complete, but lack instructions. An answer grid
+  is missing most letters; these are filled in using the ``Foundry TVAR''
+  sign. The website gives instructions and designates cells to use with the
+  answer grid.
 
 \phWorksheet{Item C}
 
-  Rock paper scissors logic puzzle
+  % Braham Disc Golf; Rock paper scissors logic puzzle
+  %
+  % Several tournament brackets with seven players are set up, labeled as
+  % ``mth word, nth letter''. The website reveals the rules of the logic puzzle
+  % to determine how to compute winners in the brackets. The winner of each
+  % bracket coresponds to a rule. (``Who rules?'')
+
+  \newcommand{\escapePodTournament}[7]{
+    \resizebox{.7\textwidth}{!}{
+    \begin{tikzpicture}
+      \tikzset{edge from parent/.style=
+      {draw,
+      edge from parent path={(\tikzparentnode.south)
+      -- +(0,-8pt)
+      -| (\tikzchildnode)}}}
+    \Tree
+      [.\(\square\)
+        [.\(\square\)
+          [.\(\square\)
+            #1
+            #2
+          ]
+          [.\(\square\)
+            #3
+            #4
+          ]
+        ]
+        [.\(\square\)
+          [.\(\square\)
+            #5
+            #6
+          ]
+          #7
+        ]
+      ]
+    \end{tikzpicture}
+    }
+  }
+
+  \begin{center}
+    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
+  \end{center}
+
+  \begin{center}
+    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
+  \end{center}
+
+  \begin{center}
+    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
+  \end{center}
+
+  \begin{center}
+    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
+  \end{center}
+
+  \begin{center}
+    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
+  \end{center}
 
 \phWorksheet{Item D}
 
-  Morse code criss-cross
+  Joe Davis Stadium; Braille code criss-cross
+
+  Words related to Military (ACTIVE, DUTY, RESERVE, NATIONAL, GUARD,
+  RETIREE, FAMILY, MEMBERS, VETERANS) are converted to Braille and
+  put into a criss cross.
 
 \phWorksheet{Item E}
 
-  Soviet spies data for logic puzzle
+  \vfill
 
+  \begin{center}
+    \begin{tikzpicture}[x=1.7cm,y=1.7cm]\LARGE
+      \node at (1,3)
+        {Abram};
+      \node at (3,3)
+        {Anton};
+      \node at (5,3)
+        {Artur};
+      \node at (7,3)
+        {Bagda};
+      \node at (1,2)
+        {Boris};
+      \node at (3,2)
+        {Denis};
+      \node at (5,2)
+        {Fedor};
+      \node at (7,2)
+        {Ignat};
+      \node at (1,1)
+        {Makar};
+      \node at (3,1)
+        {Motya};
+      \node at (5,1)
+        {Oskar};
+      \node at (7,1)
+        {Pavel};
+      \node at (1,0)
+        {Pyotr};
+      \node at (3,0)
+        {Timur};
+      \node at (5,0)
+        {Yakov};
+      \node at (7,0)
+        {Yegor};
+    \end{tikzpicture}
+  \end{center}
+
+  \vfill
+
+  \newcommand{\escapePodHuntMetaGrid}{
+    \begin{tikzpicture}[x=0.9cm,y=0.9cm]\Large
+      \draw[step=0.9cm, gray, dashed] (0,0) grid (5,5);
+      \foreach \x in {0,...,4}
+        \draw[thick] (\x,5-\x) rectangle (\x+1,4-\x);
+    \end{tikzpicture}
+  }
+
+  \hspace*{\fill}
+  \escapePodHuntMetaGrid
+  \hspace*{\fill}
+  \escapePodHuntMetaGrid
+  \hspace*{\fill}
+  \escapePodHuntMetaGrid
+  \hspace*{\fill}
+
+  \vfill
+  \vfill
+
+  % Codewords:
+  % AtOmS
+  % oNaIR
+  % BeTTy
+  % POlOs
+  % bYRoN
+  %
+  % Solution:
+  % Anton
+  % Boris
+  % Pyotr
 
 
 
