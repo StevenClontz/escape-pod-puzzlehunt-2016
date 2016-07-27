@@ -10,8 +10,10 @@ Agents,
 Please refer to **Item A** in your *Agent Fieldbook*. What appears
 to be a random grid of letters is actually a **Soviet encryption**.
 The key to this encryption is the monument dedicated to Dr. von Braun
-himself; it seems the number pairs below the letter grid are associated
-with lines and words on the monument. I promise that I will never
+himself. It seems the number pairs below the letter grid are associated
+with lines and words on the monument, although since English isn't the
+Soviet spies' first language, they've **mixed up** the words a bit.
+In any case, I promise that I will never
 allow these Soviets to **cross** us again!
 
 Make sure you **photograph the von Braun momument** for your records,
