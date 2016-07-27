@@ -202,14 +202,65 @@ your first clue on the morning of \{TODO date\}, and good luck!
 
 \phWorksheet{Item A}
 
-  VBC von Braun plaque; Scrambled word search
+  % VBC von Braun plaque; Scrambled word search
+  %
+  % On website, players get a list of tuples designating the line/word
+  % which should be found in the scrambled word search. One word is designated
+  % on the website and on the paper. (These words should be long.)
+  % The places these words cross is a clue.
 
-  On website, players get a list of tuples designating the line/word
-  which should be found in the scrambled word search. One word is designated
-  on the website and on the paper. (These words should be long.)
-  The places these words cross is a clue.
+  % A: RESEARCH (6,3) WASHINGTON (13,1)
+  % T: REDSTONE (7,6) HUNTSVILLE (2,3)
+  % O: WASHINGTON (13,1) AERONAUTICS (15,3)
+  % M: MADISON (3,1) MARSHALL (9,3)
+  % S: MADISON (3,1) HUNTSVILLE (2,3)
 
-  A:
+
+%        W
+%        S      MDSNAIO
+%        I      R
+%        G      H
+% ARNUISEOATC   L   R
+%      RSACEERH A   D
+%        H    HNSILUTVLE
+%        N      A   N
+%        T      L   E
+%        N          S
+%                   O
+%                   E
+
+  \begin{center}\Large
+  \begin{tikzpicture}[x=1.3em,y=1.4em]
+    \node at (0,11) {I}; \node at (1,11) {L}; \node at (2,11) {V}; \node at (3,11) {G}; \node at (4,11) {S}; \node at (5,11) {I}; \node at (6,11) {D}; \node at (7,11) {W}; \node at (8,11) {Y}; \node at (9,11) {J}; \node at (10,11) {Y}; \node at (11,11) {Z}; \node at (12,11) {I}; \node at (13,11) {W}; \node at (14,11) {J}; \node at (15,11) {B}; \node at (16,11) {P}; \node at (17,11) {N}; \node at (18,11) {I}; \node at (19,11) {L}; \node at (20,11) {G}; \node at (21,11) {F};
+    \node at (0,10) {U}; \node at (1,10) {W}; \node at (2,10) {D}; \node at (3,10) {P}; \node at (4,10) {U}; \node at (5,10) {X}; \node at (6,10) {S}; \node at (7,10) {S}; \node at (8,10) {B}; \node at (9,10) {Y}; \node at (10,10) {Y}; \node at (11,10) {S}; \node at (12,10) {Z}; \node at (13,10) {K}; \node at (14,10) {M}; \node at (15,10) {D}; \node at (16,10) {S}; \node at (17,10) {N}; \node at (18,10) {A}; \node at (19,10) {I}; \node at (20,10) {O}; \node at (21,10) {E};
+    \node at (0,9) {J}; \node at (1,9) {V}; \node at (2,9) {F}; \node at (3,9) {L}; \node at (4,9) {P}; \node at (5,9) {V}; \node at (6,9) {N}; \node at (7,9) {I}; \node at (8,9) {M}; \node at (9,9) {Z}; \node at (10,9) {N}; \node at (11,9) {K}; \node at (12,9) {B}; \node at (13,9) {H}; \node at (14,9) {R}; \node at (15,9) {G}; \node at (16,9) {K}; \node at (17,9) {C}; \node at (18,9) {K}; \node at (19,9) {S}; \node at (20,9) {H}; \node at (21,9) {I};
+    \node at (0,8) {I}; \node at (1,8) {B}; \node at (2,8) {T}; \node at (3,8) {Y}; \node at (4,8) {F}; \node at (5,8) {K}; \node at (6,8) {Z}; \node at (7,8) {G}; \node at (8,8) {Q}; \node at (9,8) {W}; \node at (10,8) {R}; \node at (11,8) {K}; \node at (12,8) {O}; \node at (13,8) {R}; \node at (14,8) {H}; \node at (15,8) {H}; \node at (16,8) {A}; \node at (17,8) {F}; \node at (18,8) {F}; \node at (19,8) {T}; \node at (20,8) {K}; \node at (21,8) {Z};
+    \node at (0,7) {A}; \node at (1,7) {R}; \node at (2,7) {N}; \node at (3,7) {U}; \node at (4,7) {I}; \node at (5,7) {S}; \node at (6,7) {E}; \node at (7,7) {O}; \node at (8,7) {A}; \node at (9,7) {T}; \node at (10,7) {C}; \node at (11,7) {T}; \node at (12,7) {C}; \node at (13,7) {Q}; \node at (14,7) {L}; \node at (15,7) {P}; \node at (16,7) {S}; \node at (17,7) {Y}; \node at (18,7) {R}; \node at (19,7) {G}; \node at (20,7) {D}; \node at (21,7) {G};
+    \node at (0,6) {X}; \node at (1,6) {Z}; \node at (2,6) {L}; \node at (3,6) {W}; \node at (4,6) {K}; \node at (5,6) {R}; \node at (6,6) {S}; \node at (7,6) {A}; \node at (8,6) {C}; \node at (9,6) {E}; \node at (10,6) {E}; \node at (11,6) {R}; \node at (12,6) {H}; \node at (13,6) {Z}; \node at (14,6) {A}; \node at (15,6) {G}; \node at (16,6) {U}; \node at (17,6) {Q}; \node at (18,6) {D}; \node at (19,6) {I}; \node at (20,6) {O}; \node at (21,6) {Q};
+    \node at (0,5) {A}; \node at (1,5) {O}; \node at (2,5) {G}; \node at (3,5) {V}; \node at (4,5) {Z}; \node at (5,5) {N}; \node at (6,5) {Z}; \node at (7,5) {H}; \node at (8,5) {Q}; \node at (9,5) {H}; \node at (10,5) {W}; \node at (11,5) {J}; \node at (12,5) {H}; \node at (13,5) {N}; \node at (14,5) {S}; \node at (15,5) {I}; \node at (16,5) {L}; \node at (17,5) {U}; \node at (18,5) {T}; \node at (19,5) {V}; \node at (20,5) {L}; \node at (21,5) {E};
+    \node at (0,4) {M}; \node at (1,4) {F}; \node at (2,4) {I}; \node at (3,4) {S}; \node at (4,4) {M}; \node at (5,4) {E}; \node at (6,4) {K}; \node at (7,4) {N}; \node at (8,4) {X}; \node at (9,4) {A}; \node at (10,4) {V}; \node at (11,4) {L}; \node at (12,4) {Z}; \node at (13,4) {R}; \node at (14,4) {A}; \node at (15,4) {E}; \node at (16,4) {Q}; \node at (17,4) {U}; \node at (18,4) {N}; \node at (19,4) {O}; \node at (20,4) {W}; \node at (21,4) {P};
+    \node at (0,3) {E}; \node at (1,3) {P}; \node at (2,3) {V}; \node at (3,3) {B}; \node at (4,3) {K}; \node at (5,3) {C}; \node at (6,3) {F}; \node at (7,3) {T}; \node at (8,3) {B}; \node at (9,3) {Q}; \node at (10,3) {X}; \node at (11,3) {Y}; \node at (12,3) {S}; \node at (13,3) {E}; \node at (14,3) {L}; \node at (15,3) {Q}; \node at (16,3) {X}; \node at (17,3) {C}; \node at (18,3) {E}; \node at (19,3) {V}; \node at (20,3) {O}; \node at (21,3) {A};
+    \node at (0,2) {B}; \node at (1,2) {E}; \node at (2,2) {T}; \node at (3,2) {H}; \node at (4,2) {I}; \node at (5,2) {H}; \node at (6,2) {O}; \node at (7,2) {N}; \node at (8,2) {M}; \node at (9,2) {V}; \node at (10,2) {R}; \node at (11,2) {N}; \node at (12,2) {N}; \node at (13,2) {O}; \node at (14,2) {R}; \node at (15,2) {B}; \node at (16,2) {R}; \node at (17,2) {A}; \node at (18,2) {S}; \node at (19,2) {T}; \node at (20,2) {L}; \node at (21,2) {I};
+    \node at (0,1) {L}; \node at (1,1) {I}; \node at (2,1) {V}; \node at (3,1) {Z}; \node at (4,1) {D}; \node at (5,1) {Y}; \node at (6,1) {Q}; \node at (7,1) {A}; \node at (8,1) {I}; \node at (9,1) {W}; \node at (10,1) {W}; \node at (11,1) {H}; \node at (12,1) {Q}; \node at (13,1) {T}; \node at (14,1) {X}; \node at (15,1) {C}; \node at (16,1) {U}; \node at (17,1) {W}; \node at (18,1) {O}; \node at (19,1) {G}; \node at (20,1) {B}; \node at (21,1) {G};
+    \node at (0,0) {C}; \node at (1,0) {T}; \node at (2,0) {U}; \node at (3,0) {I}; \node at (4,0) {D}; \node at (5,0) {D}; \node at (6,0) {Q}; \node at (7,0) {F}; \node at (8,0) {E}; \node at (9,0) {F}; \node at (10,0) {P}; \node at (11,0) {B}; \node at (12,0) {Z}; \node at (13,0) {J}; \node at (14,0) {O}; \node at (15,0) {N}; \node at (16,0) {Q}; \node at (17,0) {D}; \node at (18,0) {E}; \node at (19,0) {L}; \node at (20,0) {M}; \node at (21,0) {T};
+    \draw (4.5,5.5) rectangle (12.5,6.5);
+  \end{tikzpicture}
+  \end{center}
+
+  % A: RESEARCH (6,3) WASHINGTON (13,1)
+  \fbox{(6,3)} \(\times\) (13,1)
+  \hspace*{\fill}
+  % T: REDSTONE (7,6) HUNTSVILLE (2,3)
+  (7,6) \(\times\) (2,3)
+  \hspace*{\fill}
+  % O: WASHINGTON (13,1) AERONAUTICS (15,3)
+  (13,1) \(\times\) (15,3)
+  \hspace*{\fill}
+  % M: MADISON (3,1) MARSHALL (9,3)
+  (3,1) \(\times\) (9,3)
+  \hspace*{\fill}
+  % S: MADISON (3,1) HUNTSVILLE (2,3)
+  (2,3) \(\times\) (3,1)
 
 \phWorksheet{Item B}
 
