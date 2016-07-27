@@ -3,12 +3,38 @@
      <div class="row">
         <div class="col-xs-12 cf">
            <ul class="cd-main-nav left">
-              <li><a href="http://escapepodgame.com"><img src="http://escapepodgame.com/resources/graphics/logo/epg.png" alt="Escape Pod"></a></li>
+              <li><a href="/"><img src="/img/escape-pod-banner.png" alt="Escape Pod"></a></li>
            </ul>
+           {% if page.home-page %}
            <ul class="right">
               <li><p><a href="#what" class="btn btn-secondary">Coming Fall 2016</a></p></li>
            </ul>
+           {% endif %}
         </div>
      </div>
   </div>
 </nav>
+
+
+<header class="flexslider">
+  <ul class="slides">
+     <!-- Slide #01 -->
+     <li class="slide room-braun">
+        <div class="overlay">
+           <div class="container">
+              <div class="row">
+                 <div class="col-xs-12 col-md-8 col-md-offset-2">
+                    <img src="/img/puzzlehunt-logo.svg" alt="Von Braun's Puzzlehunt">
+                      {% if page.home-page %}
+                        <h1>{{ page.description }}</h1>
+                      {% else %}
+                        <h1>{{ page.title }}</h1>
+                        <h2>{{ page.description }}</h2>
+                      {% endif %}
+                 </div>
+              </div>
+           </div>
+        </div>
+     </li>
+  </ul>
+</header>

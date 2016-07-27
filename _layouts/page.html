@@ -2,25 +2,6 @@
 layout: default
 ---
 
-
-   <header class="flexslider">
-      <ul class="slides">
-         <!-- Slide #01 -->
-         <li class="slide room-braun">
-            <div class="overlay">
-               <div class="container">
-                  <div class="row">
-                     <div class="col-xs-12 col-md-8 col-md-offset-2">
-                        <img src="img/puzzlehunt-logo.svg" alt="Von Braun's Puzzlehunt">
-                        <h1>A team-based adventure across Huntsville, AL!</h1>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </li>
-      </ul>
-   </header>
-
    <section class="bg-orange what" id="what">
       <div class="container">
          <div class="row">
@@ -32,53 +13,18 @@ layout: default
                </div>
             </div>
          </div>
+         {% if page.home-page %}
          <div class="row">
             <div class="col-xs-12 col-md-6 col-md-offset-3 order txt-center">
                <h4>Sign up for this FREE one-time event!</h4>
                <p><a href="#" class="btn btn-secondary btn-disabled">Coming soon!</a></p>
             </div>
          </div>
+         {% endif %}
       </div>
    </section>
 
-   <!-- <section class="bg-black rooms" id="rooms">
-      <div class="container">
-         <div class="row">
-            <div class="col-xs-12 col-md-8 col-md-offset-2">
-               <h2>The Other Rooms</h2>
-               <p class="lead">Not your style? Already done this room? Fear not! We have other options.</p>
-            </div>
-         </div>
-         <div class="row">
-            <div class="col-xs-12 col-md-4 col-md-offset-2">
-               <div class="card card-room">
-                  <div class="header spy">
-                     <div class="overlay">
-                        <img src="http://escapepodgame.com/resources/graphics/logo/spy.svg" alt="Spy's Lair" class="logo">
-                     </div>
-                  </div>
-                  <div class="content">
-                     <p>Stop the second most incompetent evil spy known to man!</p>
-                     <p><a href="http://escapepodgame.com/spy-lair.html" class="btn btn-primary">Explore Room</a></p>
-                  </div>
-               </div>
-            </div>
-            <div class="col-xs-12 col-md-4">
-               <div class="card card-room">
-                  <div class="header wonderland">
-                     <div class="overlay">
-                        <img src="http://escapepodgame.com/resources/graphics/logo/wonderland.svg" alt="Wonderland" class="logo">
-                     </div>
-                  </div>
-                  <div class="content">
-                     <p>Tip toe through the giant mushrooms looking for Alice's missing kitten.</p>
-                     <p><a href="#" class="btn btn-disabled">Coming Soon</a></p>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </section> -->
+   {% if page.home-page %}
    <section class="bg-black rooms" id="rooms">
       <div class="container">
          <div class="row">
@@ -145,3 +91,5 @@ layout: default
          </div>
       </div>
    </section>
+
+   {% endif %}

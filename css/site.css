@@ -314,6 +314,8 @@ h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
 }
 .card-feature:last-child { margin-bottom: -40px; }
 .card-feature .lead { font-weight: 600; }
+.card-feature .lead b, .card-feature .lead strong { color:#C74A22; }
+.card-feature .lead i, .card-feature .lead em { font-weight: 400; }
 
 /** Card Who **/
 .card-who {
@@ -496,10 +498,10 @@ h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
 }
 
 .room header img { margin-top: 25vh; }
-.room header h1 { margin-top: 60px; font-size: 1.750em; }
+.room header h1 { margin-top: 60px; font-size: 2.5em; }
+.room header h2 { margin-top: 30px; font-size: 1.750em; }
 @media (max-width: 992px) {
    .room header img { margin-top: 140px; }
-   .room header h1 { margin-top: 60px; margin-bottom: 80px; }
 }
 
 .room-braun {
