@@ -200,6 +200,10 @@ your first clue on the morning of \{TODO date\}, and good luck!
 - JEH
 
 
+
+
+
+
 \phWorksheet{Item A}
 
   % VBC von Braun plaque; Scrambled word search
@@ -208,13 +212,6 @@ your first clue on the morning of \{TODO date\}, and good luck!
   % which should be found in the scrambled word search. One word is designated
   % on the website and on the paper. (These words should be long.)
   % The places these words cross is a clue.
-
-  % A: RESEARCH (6,3) WASHINGTON (13,1)
-  % T: REDSTONE (7,6) HUNTSVILLE (2,3)
-  % O: WASHINGTON (13,1) AERONAUTICS (15,3)
-  % M: MADISON (3,1) MARSHALL (9,3)
-  % S: MADISON (3,1) HUNTSVILLE (2,3)
-
 
 %        W
 %        S      MDSNAIO
@@ -262,6 +259,11 @@ your first clue on the morning of \{TODO date\}, and good luck!
   % S: MADISON (3,1) HUNTSVILLE (2,3)
   (2,3) \(\times\) (3,1)
 
+
+
+
+
+
 \phWorksheet{Item B}
 
   Lowe Mill; Skyline puzzles
@@ -270,6 +272,12 @@ your first clue on the morning of \{TODO date\}, and good luck!
   is missing most letters; these are filled in using the ``Foundry TVAR''
   sign. The website gives instructions and designates cells to use with the
   answer grid.
+
+
+
+
+
+
 
 \phWorksheet{Item C}
 
@@ -280,8 +288,10 @@ your first clue on the morning of \{TODO date\}, and good luck!
   % to determine how to compute winners in the brackets. The winner of each
   % bracket coresponds to a rule. (``Who rules?'')
 
+  \newcommand{\escapePodTournamentSquare}{%
+    \begin{tikzpicture}\draw (0,0) circle [radius=0.6em];\end{tikzpicture}%
+  }
   \newcommand{\escapePodTournament}[7]{
-    \resizebox{.7\textwidth}{!}{
     \begin{tikzpicture}
       \tikzset{edge from parent/.style=
       {draw,
@@ -289,19 +299,19 @@ your first clue on the morning of \{TODO date\}, and good luck!
       -- +(0,-8pt)
       -| (\tikzchildnode)}}}
     \Tree
-      [.\(\square\)
-        [.\(\square\)
-          [.\(\square\)
+      [.\escapePodTournamentSquare{}
+        [.\escapePodTournamentSquare{}
+          [.\escapePodTournamentSquare{}
             #1
             #2
           ]
-          [.\(\square\)
+          [.\escapePodTournamentSquare{}
             #3
             #4
           ]
         ]
-        [.\(\square\)
-          [.\(\square\)
+        [.\escapePodTournamentSquare{}
+          [.\escapePodTournamentSquare{}
             #5
             #6
           ]
@@ -309,28 +319,25 @@ your first clue on the morning of \{TODO date\}, and good luck!
         ]
       ]
     \end{tikzpicture}
-    }
   }
 
+\vfill
   \begin{center}
+    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
+    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
     \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
   \end{center}
 
   \begin{center}
     \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-  \end{center}
-
-  \begin{center}
     \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
   \end{center}
+\vfill\vfill
 
-  \begin{center}
-    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-  \end{center}
 
-  \begin{center}
-    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-  \end{center}
+
+
+
 
 \phWorksheet{Item D}
 
@@ -339,6 +346,12 @@ your first clue on the morning of \{TODO date\}, and good luck!
   Words related to Military (ACTIVE, DUTY, RESERVE, NATIONAL, GUARD,
   RETIREE, FAMILY, MEMBERS, VETERANS) are converted to Braille and
   put into a criss cross.
+
+
+
+
+
+
 
 \phWorksheet{Item E}
 
