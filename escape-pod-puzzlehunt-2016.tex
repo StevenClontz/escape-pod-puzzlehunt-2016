@@ -227,6 +227,7 @@ your first clue on the morning of \{TODO date\}, and good luck!
 %                   E
 
 \vfill
+  \phSection{You'll never cross us again!}
   \begin{center}\Large
   \begin{tikzpicture}[x=1.3em,y=1.4em]
     \node at (0,11) {I}; \node at (1,11) {L}; \node at (2,11) {V}; \node at (3,11) {G}; \node at (4,11) {S}; \node at (5,11) {I}; \node at (6,11) {D}; \node at (7,11) {W}; \node at (8,11) {Y}; \node at (9,11) {J}; \node at (10,11) {Y}; \node at (11,11) {Z}; \node at (12,11) {I}; \node at (13,11) {W}; \node at (14,11) {J}; \node at (15,11) {B}; \node at (16,11) {P}; \node at (17,11) {N}; \node at (18,11) {I}; \node at (19,11) {L}; \node at (20,11) {G}; \node at (21,11) {F};
@@ -361,40 +362,114 @@ your first clue on the morning of \{TODO date\}, and good luck!
     % VETERANS ⠧⠑⠞⠑⠗⠁⠝⠎
   % ) are converted to Braille andput into a criss cross.
 
+% \begin{verbatim}
+%                reserve
+%                   |
+%            .x.x...x...x..xx  -veterans
+%            .xx...xxx.xxx..x
+%            x.xx.x.x.xx..x.x
+%                  ..x
+%                  .x.
+%                  xx.
+%                  ..x.x.....x...x
+%                  ..xxxx..x..x...  -members
+%                  .x..x.x.xxx.xxx
+%                  xxx guard   ...
+%             .x.  .x.  .xx    x..
+%             x..  xxx  .xx    xx.
+%             .x.  x..  x.x    x.x
+%             x..  ..x  x..    .x.
+%         x.xx.x.xx.x.  ..x    x.x
+% active- ....xxx.x..x  ...    x..
+%         ....x...xx..  xxx    .x.
+%             .x.       .x.    xx.
+%             xx.       ..x    .xx
+%     family- .xxx.xx.xx.xx    ...
+%             .x.....x.x..x    x..
+%        xx.xxx....x...x.xx    xx.
+%        x.xx..x. -duty        x.x
+%        xxx..xxx               |
+%             |              national
+%           retiree
+%
+%
+% \end{verbatim}
 
+\newcommand{\brailleGrid}[2]{
+  \draw[black,thick]         (#1) rectangle +(#2);
+  \draw[lightgray,thin,step=1]  (#1) grid +(#2);
+}
 
+\vfill
+\phSection{What are you, blind?}
+\begin{center}
+\begin{tikzpicture}[x=0.5cm,y=0.5cm]
+  % B
+  \draw[lightgray,fill=lightgray!50] (2,8) rectangle +(3,2);
+  % E
+  \draw[lightgray,fill=lightgray!50] (11,2) rectangle +(2,3);
+  % T
+  \draw[lightgray,fill=lightgray!50] (10,11) rectangle +(2,3);
+  % T
+  \draw[lightgray,fill=lightgray!50] (5,21) rectangle +(3,2);
+  % Y
+  \draw[lightgray,fill=lightgray!50] (12,16) rectangle +(3,2);
 
+  % duty <-
+  \brailleGrid{0,0}{8,3}
+  % \node[gray] at (7,1.5) {\rotatebox{180}{\Huge D}};
 
-\begin{verbatim}
-               reserve
-                 |
-           .x.x...x...x..xx  -veterans
-           .xx...xxx.xxx..x   /-guard
-           x.xx.x.x.xx..x.x  .xx
-                 ..x         .xx
-                 .x.         x.x
-                 xx.         x..
-                 ..x.x.....x...x
-                 ..xxxx..x..x...  -members
-            .x.  .x..x.x.xxx.xxx
-            x..  xxx         ...
-            .x.  .x.         x..
-            x..  xxx         xx.
-        x.xx.x.xx.x.         x.x
-active- ....xxx.x..x         .x.
-        ....x...xx..         x.x
-            .x.              x..
-            xx.              .x.
-    family- .xxx.xx.xx.xx    xx.
-            .x.....x.x..x    .xx
-       xx.xxx....x...x.xx    ...
-       x.xx..x. -duty        x..
-       xxx..xxx              xx.
-            |                x.x
-          retiree             |
-                            national
+  % retiree ^
+  \brailleGrid{5,0}{3,14}
+  \node[gray] at (6.5,1) {\rotatebox{90}{\Huge R}};
 
-\end{verbatim}
+  % family ->
+  \brailleGrid{6,2}{12,3}
+  % \node[gray] at (7,3.5) {\rotatebox{0}{\Huge F}};
+
+  % active ->
+  \brailleGrid{1,7}{12,3}
+  % \node[gray] at (2,8.5) {\rotatebox{0}{\Huge A}};
+
+  % reserve v
+  \brailleGrid{10,9}{3,14}
+  \node[gray] at (11.5,22) {\rotatebox{-90}{\Huge R}};
+
+  % veterans <-
+  \brailleGrid{4,21}{16,3}
+  % \node[gray] at (19,22.5) {\rotatebox{180}{\Huge V}};
+
+  % members <-
+  \brailleGrid{11,15}{14,3}
+  % \node[gray] at (24,16.5) {\rotatebox{180}{\Huge M}};
+
+  % national ^
+  \brailleGrid{22,1}{3,16}
+  \node[gray] at (23.5,2) {\rotatebox{90}{\Huge N}};
+
+  % guard v
+  \brailleGrid{15,4}{3,10}
+  \node[gray] at (16.5,13) {\rotatebox{-90}{\Huge G}};
+
+  % B
+  \node[white] at (3.5,9) {\rotatebox{-90}{\Huge 1}};
+  % \draw[lightgray,fill=lightgray!50] (2,8) rectangle +(3,2);
+  % E
+  \node[white] at (12,3.5) {\rotatebox{0}{\Huge 2}};
+  % \draw[lightgray,fill=lightgray!50] (11,2) rectangle +(2,3);
+  % T
+  \node[white] at (11,12.5) {\rotatebox{180}{\Huge 3}};
+  % \draw[lightgray,fill=lightgray!50] (10,11) rectangle +(2,3);
+  % T
+  \node[white] at (6.5,22) {\rotatebox{90}{\Huge 4}};
+  % \draw[lightgray,fill=lightgray!50] (5,21) rectangle +(3,2);
+  % Y
+  \node[white] at (13.5,17) {\rotatebox{-90}{\Huge 5}};
+  % \draw[lightgray,fill=lightgray!50] (12,16) rectangle +(3,2);
+
+\end{tikzpicture}
+\end{center}
+\vfill\vfill
 
 
 
