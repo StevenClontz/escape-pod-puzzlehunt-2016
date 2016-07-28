@@ -202,9 +202,9 @@ your first clue on the morning of \{TODO date\}, and good luck!
 
 
 
+% Mission briefing: ONAIR
 
-
-\phWorksheet{Item A}
+\phWorksheet{Item A} %ATOMS
 
   % VBC von Braun plaque; Scrambled word search
   %
@@ -226,6 +226,7 @@ your first clue on the morning of \{TODO date\}, and good luck!
 %                   O
 %                   E
 
+\vfill
   \begin{center}\Large
   \begin{tikzpicture}[x=1.3em,y=1.4em]
     \node at (0,11) {I}; \node at (1,11) {L}; \node at (2,11) {V}; \node at (3,11) {G}; \node at (4,11) {S}; \node at (5,11) {I}; \node at (6,11) {D}; \node at (7,11) {W}; \node at (8,11) {Y}; \node at (9,11) {J}; \node at (10,11) {Y}; \node at (11,11) {Z}; \node at (12,11) {I}; \node at (13,11) {W}; \node at (14,11) {J}; \node at (15,11) {B}; \node at (16,11) {P}; \node at (17,11) {N}; \node at (18,11) {I}; \node at (19,11) {L}; \node at (20,11) {G}; \node at (21,11) {F};
@@ -259,6 +260,7 @@ your first clue on the morning of \{TODO date\}, and good luck!
   % S: MADISON (3,1) HUNTSVILLE (2,3)
   (2,3) \(\times\) (3,1)
 
+\vfill\vfill
 
 
 
@@ -279,7 +281,8 @@ your first clue on the morning of \{TODO date\}, and good luck!
 
 
 
-\phWorksheet{Item C}
+\phWorksheet{Item C} % POLOS
+
 
   % Braham Disc Golf; Rock paper scissors logic puzzle
   %
@@ -291,7 +294,8 @@ your first clue on the morning of \{TODO date\}, and good luck!
   \newcommand{\escapePodTournamentSquare}{%
     \begin{tikzpicture}\draw (0,0) circle [radius=0.6em];\end{tikzpicture}%
   }
-  \newcommand{\escapePodTournament}[7]{
+  \newcommand{\escapePodTournament}[8]{
+    \begin{tabular}{c}
     \begin{tikzpicture}
       \tikzset{edge from parent/.style=
       {draw,
@@ -318,20 +322,22 @@ your first clue on the morning of \{TODO date\}, and good luck!
           #7
         ]
       ]
-    \end{tikzpicture}
+    \end{tikzpicture} \\
+    \textbf{#8} \vspace{1em}
+    \end{tabular}
   }
 
 \vfill
-  \begin{center}
-    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-  \end{center}
-
-  \begin{center}
-    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-    \escapePodTournament{1}{2}{3}{4}{5}{6}{7}
-  \end{center}
+\phSection{Who rules?}
+  \resizebox{\linewidth}{!}{
+    \begin{minipage}{0.8\linewidth}\centering
+      \escapePodTournament{4}{1}{6}{2}{3}{7}{5}{7th word} % P: rule 3
+      \escapePodTournament{2}{4}{5}{1}{3}{6}{7}{4th word} % O: rule 7
+      \escapePodTournament{6}{1}{4}{3}{2}{7}{5}{16th word} % L: rule 4
+      \escapePodTournament{1}{5}{4}{6}{7}{3}{2}{3rd word} % O: rule 1
+      \escapePodTournament{1}{7}{4}{3}{2}{6}{5}{2nd word} % S: rule 7
+    \end{minipage}
+  }
 \vfill\vfill
 
 
