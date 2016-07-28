@@ -7,11 +7,20 @@ permalink: /updates/73629102/joe-davis-stadium/
 
 Agents,
 
-When the stadium was operational, TODO something veterans.
+It's great to be an American, and there are no Americans I respect
+more than our **military**. When Joe Davis Stadium was operational, various
+members of the military were given a discount.
 Leave it to the Soviets to use this information against us!
-TODO instructions for braille crisscross.
+Our sources say that to reveal the **final Soviet codeword**, you must
+somehow criss-cross nine words related to military on the ticket booth sign
+within the grid on **Item D**: ACTIVE through VETERANS.
+Furthermore, you'll need to use a
+well-known **tactile writing system** which replaces each letter
+with a 2x3 grid of pips, AND you'll need to **rotate the grid** to write
+some of the words. Devious... I suggest you start by writing
+**VETERANS upside-down on the topmost row**.
 
-You should **photograph the ticket prices** for your records,
+Don't neglect to **photograph the ticket prices** for your records,
 as well as **post a photograph of your team at this location to either
 Twttr or FB** with the appropriate hashtags.
 

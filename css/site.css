@@ -531,3 +531,6 @@ h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
 
 table th, table td { border: 1px gray solid; padding: 0.2em; text-align: center;}
 table th { background-color: lightgray;}
+
+.table-wrapper {width:100%;}
+.table-wrapper table {margin: 0 auto;}
