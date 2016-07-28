@@ -7,7 +7,7 @@ permalink: /updates/27293401/vbc/
 
 Agents,
 
-Please refer to **Item A** in your *Agent Fieldbook*. What appears
+Please refer to **Puzzle A** in your *Agent Fieldbook*. What appears
 to be a random grid of letters is actually a **Soviet encryption**.
 The key to this encryption is the monument dedicated to Dr. von Braun
 himself. It seems the number pairs below the letter grid are associated
@@ -20,7 +20,7 @@ Twttr or FB** with the appropriate hashtags.
 
 Remember, as long as you have a photograph of the von Braun monument on
 your handheld computer, **you do not need to solve for the five-letter
-Soviet codeword in Item A before moving to your next Location**.
+Soviet codeword in Puzzle A before moving to your next Location**.
 I recommend having one member of your team drive while the rest of
 your team works on any unsolved puzzles.
 

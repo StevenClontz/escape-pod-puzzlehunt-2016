@@ -42,9 +42,9 @@ detained **sixteen suspects**:
 </div>
 
 To determine which three are the true spies, try writing the **five
-Soviet codewords** in the grids printed on **Item E** in various orders.
+Soviet codewords** in the grids printed on **Puzzle E** in various orders.
 Remember that I gave you the first codeword, **`ONAIR`**, in your Mission
-Briefing; the other four codewords are hidden in **Items A-D**.
+Briefing; the other four codewords are hidden in **Puzzles A-D**.
 
 When you think you have determined the three correct names from the list
 above, you may submit your accusation

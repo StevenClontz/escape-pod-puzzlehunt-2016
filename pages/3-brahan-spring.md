@@ -9,7 +9,7 @@ Agents,
 
 I'm afraid there's no time for a leisurely round of disc golf;
 we need you to study a very different kind of game instead.
-It seems that **Item C** of the *Agent Fieldbook* represents
+It seems that **Puzzle C** of the *Agent Fieldbook* represents
 brackets for a **Hammer Plow Sickle** tournament between seven Soviet
 operatives. We're not sure of the rules, except that it's very similar
 to **Rock Paper Scissors**, and the rows of the below chart show how
@@ -105,7 +105,7 @@ each operative plays against the others:
 </div>
 
 Somehow they've used these tournament brackets along with the Brahan
-Spring Disc Golf rules to encode one of the **five Soviet codewords**.
+Spring Disc Golf rules to encode a **Soviet codeword**.
 
 Take care to **photograph the seven Disc Golf rules** for your records,
 as well as **post a photograph of your team at this location to either

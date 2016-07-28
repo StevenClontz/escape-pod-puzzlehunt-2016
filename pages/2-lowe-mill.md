@@ -7,7 +7,7 @@ permalink: /updates/89001283/lowe-mill/
 
 Agents,
 
-I'm relieved you made it. **Item B** in your *Agent Fieldbook* appears
+I'm relieved you made it. **Puzzle B** in your *Agent Fieldbook* appears
 to represent plans for a new urban development to be built in Moscow.
 Each row and column contains exactly one building of each height,
 either **one, two, three, or four stories tall**.
