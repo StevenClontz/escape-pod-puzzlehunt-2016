@@ -10,10 +10,99 @@ Agents,
 I'm afraid there's no time for a leisurely round of disc golf;
 we need you to study a very different kind of game instead.
 It seems that **Item C** of the *Agent Fieldbook* represents
-brackets for a **Rock Paper Scissors** tournament between seven Soviet
-operatives. Here's what we know about their strategies:
+brackets for a **Hammer Sickle Plow** tournament between seven Soviet
+operatives. We're not sure of the rules, except that it's very similar
+to **Rock Paper Scissors**, and the rows of the below chart show how
+each operative plays against the others:
 
-* TODO write this
+<div style="width:100%;">
+  <table style="margin: 0 auto;">
+    <thead>
+      <tr>
+        <th></th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+        <th>4</th>
+        <th>5</th>
+        <th>6</th>
+        <th>7</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>1</th>
+        <td>-</td>
+        <td>H</td>
+        <td>H</td>
+        <td>P</td>
+        <td>S</td>
+        <td>H</td>
+        <td>S</td>
+      </tr>
+      <tr>
+        <th>2</th>
+        <td>S</td>
+        <td>-</td>
+        <td>P</td>
+        <td>H</td>
+        <td>P</td>
+        <td>P</td>
+        <td>S</td>
+      </tr>
+      <tr>
+        <th>3</th>
+        <td>P</td>
+        <td>H</td>
+        <td>-</td>
+        <td>S</td>
+        <td>S</td>
+        <td>P</td>
+        <td>H</td>
+      </tr>
+      <tr>
+        <th>4</th>
+        <td>S</td>
+        <td>S</td>
+        <td>P</td>
+        <td>-</td>
+        <td>S</td>
+        <td>P</td>
+        <td>H</td>
+      </tr>
+      <tr>
+        <th>5</th>
+        <td>H</td>
+        <td>H</td>
+        <td>H</td>
+        <td>H</td>
+        <td>-</td>
+        <td>S</td>
+        <td>P</td>
+      </tr>
+      <tr>
+        <th>6</th>
+        <td>S</td>
+        <td>S</td>
+        <td>H</td>
+        <td>S</td>
+        <td>H</td>
+        <td>-</td>
+        <td>P</td>
+      </tr>
+      <tr>
+        <th>7</th>
+        <td>P</td>
+        <td>H</td>
+        <td>P</td>
+        <td>S</td>
+        <td>H</td>
+        <td>H</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 Take care to **photograph the seven Disc Golf rules** for your records,
 as well as **post a photograph of your team at this location to either

@@ -527,3 +527,7 @@ h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
 @media (max-width: 992px) {
    .what .order p { margin-bottom: 20px;}
 }
+
+
+table th, table td { border: 1px gray solid; padding: 0.2em; text-align: center;}
+table th { background-color: lightgray;}
