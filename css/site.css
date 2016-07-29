@@ -510,8 +510,8 @@ h5 { font-size: 1.125em; margin-top: 0; font-weight: 600; }
    background-size: cover;
 }
 
-.room-spy{
-   background-image: url("../resources/images/rooms/spy-lair2.png");
+.room-braun2{
+   background-image: url("/img/braun-room.png");
    background-position: top;
    background-size: cover;
 }

@@ -3,10 +3,12 @@ layout: page
 title: "Escape Pod"
 description: "Final Mission Update"
 permalink: /updates/12945078/escape-pod/
+alt-bg: true
 ---
 
 Agents,
 
+Welcome to **Von Braun's Office**.
 The time has come to identify the **three Soviet spies**. We've
 detained **sixteen suspects**:
 
@@ -48,7 +50,8 @@ Briefing; the other four codewords are hidden in **Puzzles A-D**.
 
 When you think you have determined the three correct names from the list
 above, you may submit your accusation
-[at this ARPAnet submission form](#). For security purposes, you will need the
+[at this ARPAnet submission form](https://goo.gl/forms/TaEBqxwNaFojXL6t1).
+For security purposes, you will need the
 **secret PIN** your team was assigned at registration, and you will be limited
 to **only three total submissions**.
 
