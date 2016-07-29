@@ -11,9 +11,9 @@ It's great to be an American, and there are no Americans I respect
 more than our **military**. When Joe Davis Stadium was operational, various
 members of the military were given a discount.
 Leave it to the Soviets to use this information against us!
-Our sources say that to reveal the **final Soviet codeword**, you must
-somehow criss-cross nine words related to military on the ticket booth sign
-within the grid on **Puzzle D**: ACTIVE through VETERANS.
+Our sources say that to reveal the **final Soviet codeword** in
+**Puzzle D**, you must somehow **criss-cross** the first nine words related to
+military on the ticket booth sign: "ACTIVE" through "VETERANS".
 Furthermore, you'll need to use a
 well-known **tactile writing system** which replaces each letter
 with a 2x3 grid of pips, AND you'll need to **rotate the grid** to write
