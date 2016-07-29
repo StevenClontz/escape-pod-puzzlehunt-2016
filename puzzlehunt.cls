@@ -124,6 +124,14 @@
 \RequirePackage[hidelinks]{hyperref}
 \newcommand{\phUrl}[1]{\(\langle\)\url{#1}\(\rangle\)}
 
+% Watermarks
+\RequirePackage{draftwatermark}
+\newcommand{\phMarkDraft}{
+  \SetWatermarkText{DRAFT \today}
+  \SetWatermarkScale{0.5}
+}
+
+
 
 % that's all folks
 \endinput
