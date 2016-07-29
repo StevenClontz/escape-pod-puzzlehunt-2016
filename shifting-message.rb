@@ -2,6 +2,8 @@ plaintext = <<heredoc
 Those stupid Americans will never guess that Byron is one of our codewords!
 heredoc
 
+# plaintext = "TWKHY DTJLRD LMTHXCLNB SXLW HTRTR LUTOH NSAI XHRZN XI DNP OO KJR NISALOWDH!"
+
 plaintext.upcase!
 
 index = 0
