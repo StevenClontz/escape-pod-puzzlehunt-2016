@@ -267,8 +267,8 @@ your first clue on the morning of \{TODO date\}, and good luck!
   % M: MADISON (3,1) MARSHALL (9,3)
   (3,1) \(\times\) (9,3)
   \hspace*{\fill}
-  % S: MADISON (3,1) HUNTSVILLE (2,3)
-  (2,3) \(\times\) (3,1)
+  % S: MADISON (3,1) MARSHALL (9,3)
+  (2,3) \(\times\) (9,3)
 
 \vfill\vfill
 
@@ -286,12 +286,18 @@ your first clue on the morning of \{TODO date\}, and good luck!
 
   \phSection{Soviet spies can be rather shifty!}
 
-  {\LARGE
-  TWKHY DTJLRD LMTHXCLNB SXLW HTRTR LUTOH
+  {\Huge
+  \begin{verbatim}
+TDDOYDTQEYDLMAAECLNIL
 
-  \vspace{4em}
 
-  \noindent NSAI XHRZN XI DNP OO KJR NISALOWDH!
+
+ELWHAKARLUAHONSAPQORZ
+
+
+
+NEBKNPOVDQRNIZTSOWDO
+  \end{verbatim}
   }
 
   % Those stupid Americans will never guess that Byron is one of
@@ -362,6 +368,8 @@ your first clue on the morning of \{TODO date\}, and good luck!
       \escapePodTournament{1}{7}{4}{3}{2}{6}{5}{2nd word} % S: rule 7
     \end{minipage}
   }
+
+Use the first letter of each...
 \vfill\vfill
 
 
@@ -497,15 +505,16 @@ your first clue on the morning of \{TODO date\}, and good luck!
 
 
 
-\phWorksheet{Puzzle E}
+\phWorksheet{Metapuzzle}
 
   \vfill
 
-  \newcommand{\escapePodHuntMetaGrid}{
+  \newcommand{\escapePodHuntMetaGrid}[1]{
     \begin{tikzpicture}[x=0.9cm,y=0.9cm]\Large
+      \node at (2.5,5.5) {\##1};
       \draw[step=0.9cm, gray, dashed] (0,0) grid (5,5);
-      \foreach \x in {0,...,4}
-        \draw[thick] (\x,5-\x) rectangle (\x+1,4-\x);
+      % \foreach \x in {0,...,4}
+      %   \draw[thick] (\x,5-\x) rectangle (\x+1,4-\x);
     \end{tikzpicture}
   }
 
@@ -513,22 +522,22 @@ your first clue on the morning of \{TODO date\}, and good luck!
   our spies!}
 
   \hspace*{\fill}
-  \escapePodHuntMetaGrid
+  \escapePodHuntMetaGrid{A0DCB}
   \hspace*{\fill}
-  \escapePodHuntMetaGrid
+  \escapePodHuntMetaGrid{DCB0A}
   \hspace*{\fill}
-  \escapePodHuntMetaGrid
+  \escapePodHuntMetaGrid{CBAD0}
   \hspace*{\fill}
 
   \vfill
   \vfill
 
   % Codewords:
-  % AtOmS
-  % oNaIR
-  % BeTTy
-  % POlOs
-  % bYRoN
+  % 0: ONAIR
+  % A: ATOMS
+  % B: BYRON
+  % C: POLOS
+  % D: BETTY
   %
   % Solution:
   % Anton
