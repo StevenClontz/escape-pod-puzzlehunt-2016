@@ -21,8 +21,8 @@ as well as **post a photograph of your team at this location to either
 Twttr or FB** with the appropriate hashtags.
 
 Remember, as long as you have a photograph of the von Braun monument on
-your handheld computer, **you do not need to solve for the five-letter
-Soviet codeword in Puzzle A before moving to your next Location**.
+your handheld computer, **you do not need to solve
+Puzzle A before moving to your next Location**.
 However, **NEVER solve and drive at the same time**! Let your passengers
 puzzle things out while you transport them safely.
 
