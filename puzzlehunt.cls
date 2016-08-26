@@ -126,6 +126,7 @@
 
 % Watermarks
 \RequirePackage{draftwatermark}
+\SetWatermarkText{}
 \newcommand{\phMarkDraft}{
   \SetWatermarkText{DRAFT \today}
   \SetWatermarkScale{0.5}
