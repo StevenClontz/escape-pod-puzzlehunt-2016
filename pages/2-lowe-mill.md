@@ -13,9 +13,9 @@ in this Lowe Mill mural. Our own spies have reported that you can
 crack this code by following these instructions in order:
 
 * Starting with the second letter, **shift every 2nd letter** by the
-  **number of eyeballs** in the mural.
-* Starting with the third letter, **shift every 3rd letter** by the
   **number of teeth** in the mural.
+* Starting with the third letter, **shift every 3rd letter** by the
+  **number of eyeballs** in the mural.
 * Starting with the fifth letter, **shift every 5th letter** by the
   **number of letters** in the artist's name.
 
