@@ -40,3 +40,11 @@ to include `#EscapePodHunt` and your team's unique hashtag so we can identify
 you.
 
 \- JEH
+
+---
+
+### QR code for this page
+
+[![QR Code][qrcode]][qrcode]
+
+[qrcode]: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=http://ephunt16.clontz.org/updates/78234592/tolfoy/

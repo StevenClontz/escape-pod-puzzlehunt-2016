@@ -33,3 +33,11 @@ Look for a monstrous mural on an exterior wall to receive my next update.
 \- JEH
 
 * [Back to Mission Briefing](/updates/78234592/tolfoy/)
+
+---
+
+### QR code for this page
+
+[![QR Code][qrcode]][qrcode]
+
+[qrcode]: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=http://ephunt16.clontz.org/updates/27293401/vbc/

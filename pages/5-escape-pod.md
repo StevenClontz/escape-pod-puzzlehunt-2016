@@ -64,3 +64,11 @@ Thanks for your hard work, and good luck.
 \- JEH
 
 * [Back to Mission Update 4](/updates/73629102/joe-davis-stadium/)
+
+---
+
+### QR code for this page
+
+[![QR Code][qrcode]][qrcode]
+
+[qrcode]: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=http://ephunt16.clontz.org/updates/12945078/escape-pod/

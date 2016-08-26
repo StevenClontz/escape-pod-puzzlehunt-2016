@@ -34,3 +34,11 @@ the Big one.* Look for my mission update near the start of the course.
 \- JEH
 
 * [Back to Mission Update 1](/updates/27293401/vbc/)
+
+---
+
+### QR code for this page
+
+[![QR Code][qrcode]][qrcode]
+
+[qrcode]: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=http://ephunt16.clontz.org/updates/89001283/lowe-mill/

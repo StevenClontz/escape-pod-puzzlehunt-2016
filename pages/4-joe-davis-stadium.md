@@ -32,3 +32,11 @@ codewords** as you can decipher, so get to solving!
 \- JEH
 
 * [Back to Mission Update 3](/updates/11291005/brahan-spring/)
+
+---
+
+### QR code for this page
+
+[![QR Code][qrcode]][qrcode]
+
+[qrcode]: https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=http://ephunt16.clontz.org/updates/73629102/joe-davis-stadium/
