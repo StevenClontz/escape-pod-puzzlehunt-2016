@@ -18,6 +18,6 @@ spies** as they attempt their escape, by following the clues
 our operatives have uncovered around the City of Huntsville. You are our
 last line of defense in this crucial national security mission,
 and our fate lies in your hands! Good luck, and I'll see you on
-**Saturday, November 12, 2016**.
+**Saturday, November 12**.
 
 \- JEH
