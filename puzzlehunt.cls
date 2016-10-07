@@ -55,7 +55,7 @@
 	\vspace{2em}
 	{\LARGE\textit{\@author} \par}
 	\vfill
-	{\large Version \@date \par}
+	{\large (PDF last updated on \@date) \par}
   \end{center}
 \end{titlepage}
 }
