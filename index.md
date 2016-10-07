@@ -1,6 +1,6 @@
 ---
 layout: page
-description: "A team-based adventure across Huntsville, AL!"
+description: "A team-based adventure in Huntsville, AL!"
 home-page: true
 ---
 

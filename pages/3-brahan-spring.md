@@ -107,9 +107,7 @@ each operative plays against the others:
 Somehow they've used these tournament brackets along with the Brahan
 Spring Disc Golf rules to encode a **Soviet codeword**.
 
-Take care to **photograph the seven Disc Golf rules** for your records,
-as well as **post a photograph of your team at this location to either
-Twttr or FB** with the appropriate hashtags.
+Take care to **photograph the seven Disc Golf rules** for your records!
 
 On the topic of sports, *I think it's time we moved position to the
 former home of a true American pastime. The Stars may have moved on,

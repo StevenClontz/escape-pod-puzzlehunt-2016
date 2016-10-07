@@ -23,9 +23,7 @@ As an example, the letter **`J`** shifted by the number 7 is the letter **`Q`**,
 since **`Q`** is seven letters later in the alphabet. Don't forget to
 cycle back from **`Z`** to **`A`** when necessary!
 
-Before moving on, **photograph the full mural** for your records,
-as well as **post a photograph of your team at this location to either
-Twttr or FB** with the appropriate hashtags.
+Before moving on, be sure to **photograph the full mural** for your records!
 
 *Your mission continues at a golf course, but not the kind I usually
 play at. Head to one of Huntsville's "Spring Parks", but not

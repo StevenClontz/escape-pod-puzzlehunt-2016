@@ -19,9 +19,7 @@ well-known **tactile writing system** which replaces each letter
 with a 2x3 grid of pips, AND you'll need to **rotate the grid** to write
 some of the words. Devious...
 
-Don't neglect to **photograph the ticket prices** for your records,
-as well as **post a photograph of your team at this location to either
-Twttr or FB** with the appropriate hashtags.
+Don't neglect to **photograph the ticket prices** for your records.
 
 It's all about to come to a head. *Your final mission objective is
 outside the building where

@@ -51,14 +51,11 @@ Once you've discovered the correct order for each grid,
 Briefing; the other four codewords are hidden in **Puzzles A-D**.)
 
 When you think you have determined the three correct names from the list
-above, you may submit your accusation
-[at this ARPAnet submission form](https://goo.gl/forms/TaEBqxwNaFojXL6t1).
-For security purposes, you will need the
-**secret PIN** your team was assigned at registration, and you will be limited
-to **only three total submissions**.
+above, report the names of the three Soviet spies to one of my operatives
+stationed at this location to complete your mission!
 
 We will announce results over the [FB](#) and [Twttr](#) protocols, so
-watch those channels after your submission to see if you were correct!
+keep an eye on those channels!
 Thanks for your hard work, and good luck.
 
 \- JEH

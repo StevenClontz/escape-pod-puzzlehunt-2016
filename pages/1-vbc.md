@@ -16,9 +16,7 @@ although they've **scrambled** the words a bit.
 Also, my sources suggest that it will be important to figure out why they
 included the word **"cross"** on the page.
 
-Make sure you **photograph the von Braun momument** for your records,
-as well as **post a photograph of your team at this location to either
-Twttr or FB** with the appropriate hashtags.
+Make sure you **photograph the von Braun momument** for your records!
 
 Remember, as long as you have a photograph of the von Braun monument on
 your handheld computer, **you do not need to solve
