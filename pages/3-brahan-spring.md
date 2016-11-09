@@ -115,7 +115,7 @@ but that's not Joe's fault.* See you at will call.
 
 \- JEH
 
-* [Back to Mission Update 2](/updates/89001283/lowe-mill/)
+<!-- * [Back to Mission Update 2](/updates/89001283/lowe-mill/) -->
 
 ---
 

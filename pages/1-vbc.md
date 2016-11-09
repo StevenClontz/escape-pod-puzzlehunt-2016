@@ -30,7 +30,7 @@ Look for a monstrous mural on an exterior wall to receive my next update.
 
 \- JEH
 
-* [Back to Mission Briefing](/updates/78234592/tolfoy/)
+<!-- * [Back to Mission Briefing](/updates/78234592/tolfoy/) -->
 
 ---
 

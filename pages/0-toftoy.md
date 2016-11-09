@@ -29,7 +29,8 @@ Your first clue is located not too far away.
 plaque in front of that building.* Remember, if you ever
 feel like you're off the correct path, check for hints on the
 [Twttr][Twitter] or [FB][Facebook] ARPAnet protocols using your
-handheld computer.
+handheld computer. Also, for security reasons, *you must locate all
+my Mission Briefings hidden around the city to complete this mission*.
 
 [Twitter]: http://twitter.com/EscapePodGame/
 [Facebook]: http://fb.com/EscapePodGame/

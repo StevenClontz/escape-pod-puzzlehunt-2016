@@ -31,7 +31,7 @@ the Big one.* Look for my mission update near the start of the course.
 
 \- JEH
 
-* [Back to Mission Update 1](/updates/27293401/vbc/)
+<!-- * [Back to Mission Update 1](/updates/27293401/vbc/) -->
 
 ---
 

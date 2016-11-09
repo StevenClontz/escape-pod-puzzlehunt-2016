@@ -25,11 +25,12 @@ It's all about to come to a head. *Your final mission objective is
 outside the building where
 [Von Brauns' Office](http://escapepodgame.com) is located.* To solve the
 final puzzle located there, you will need as many of the **five Soviet
-codewords** as you can decipher, so get to solving!
+codewords** as you can decipher, so get to solving! Be sure to remember
+
 
 \- JEH
 
-* [Back to Mission Update 3](/updates/11291005/brahan-spring/)
+<!-- * [Back to Mission Update 3](/updates/11291005/brahan-spring/) -->
 
 ---
 
