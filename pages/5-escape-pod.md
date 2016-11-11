@@ -51,11 +51,9 @@ Once you've discovered the correct order for each grid,
 Briefing; the other four codewords are hidden in **Puzzles A-D**.)
 
 When you think you have determined the three correct names from the list
-above, report the names of the three Soviet spies to one of my operatives
+above, report the names of the three Soviet spies to my operative
 stationed at this location to complete your mission!
 
-We will announce results over the [FB](#) and [Twttr](#) protocols, so
-keep an eye on those channels!
 Thanks for your hard work, and good luck.
 
 \- JEH

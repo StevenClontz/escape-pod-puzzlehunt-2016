@@ -108,6 +108,8 @@ Somehow they've used these tournament brackets along with the Brahan
 Spring Disc Golf rules to encode a **Soviet codeword**.
 
 Take care to **photograph the seven Disc Golf rules** for your records!
+You also must **photograph a teammate at this location for verification
+purposes**.
 
 On the topic of sports, *I think it's time we moved position to the
 former home of a true American pastime. The Stars may have moved on,

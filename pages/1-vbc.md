@@ -17,6 +17,8 @@ Also, my sources suggest that it will be important to figure out why they
 included the word **"cross"** on the page.
 
 Make sure you **photograph the von Braun momument** for your records!
+You also must **photograph a teammate at this location for verification
+purposes**.
 
 Remember, as long as you have a photograph of the von Braun monument on
 your handheld computer, **you do not need to solve

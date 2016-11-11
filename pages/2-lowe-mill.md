@@ -24,6 +24,8 @@ since **`Q`** is seven letters later in the alphabet. Don't forget to
 cycle back from **`Z`** to **`A`** when necessary!
 
 Before moving on, be sure to **photograph the full mural** for your records!
+You also must **photograph a teammate at this location for verification
+purposes**.
 
 *Your mission continues at a golf course, but not the kind I usually
 play at. Head to one of Huntsville's "Spring Parks", but not

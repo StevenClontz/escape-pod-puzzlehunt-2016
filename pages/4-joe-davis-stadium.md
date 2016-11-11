@@ -20,12 +20,19 @@ with a 2x3 grid of pips, AND you'll need to **rotate the grid** to write
 some of the words. Devious...
 
 Don't neglect to **photograph the ticket prices** for your records.
+You also must **photograph a teammate at this location for verification
+purposes**.
 
 It's all about to come to a head. *Your final mission objective is
 outside the building where
-[Von Brauns' Office](http://escapepodgame.com) is located.* To solve the
+[Von Brauns' Office](http://escapepodgame.com) is located.*
+My operative will ask to see proof that you visited all five locations from
+this morning's mission before giving you my Final Mission Update, so
+don't forget to bring your photographs!
+
+To solve the
 final puzzle located there, you will need as many of the **five Soviet
-codewords** as you can decipher, so get to solving! Be sure to remember
+codewords** as you can decrypt, so get to solving!
 
 
 \- JEH

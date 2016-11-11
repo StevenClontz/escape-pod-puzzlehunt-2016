@@ -23,7 +23,7 @@ Good luck, and I'll be contacting you on
 **Saturday, November 12** at **10am**. Watch for directions on either the
 [Twttr](http://twitter.com/EscapePodGame) or
 [FB](http://fb.com/EscapePodGame) protocols at that time for instructions!
-Don't forget to bring along a
-**handheld computer** with a **QR Code reader**!
+Don't forget to bring along a fully charged
+**handheld computer** (smartphone) with a **camera** and **QR Code reader**!
 
 \- JEH
