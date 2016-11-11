@@ -20,7 +20,7 @@ last line of defense in this crucial national security mission,
 and our fate lies in your hands!
 
 Good luck, and I'll be contacting you on
-**Saturday, November 12** at **10am**. Watch for directions on either the
+**Saturday, November 12** at **10am**. Watch either the
 [Twttr](http://twitter.com/EscapePodGame) or
 [FB](http://fb.com/EscapePodGame) protocols at that time for instructions!
 Don't forget to bring along a fully charged
