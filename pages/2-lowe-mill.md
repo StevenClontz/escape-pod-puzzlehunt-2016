@@ -29,7 +29,7 @@ purposes**.
 
 *Your mission continues at a golf course, but not the kind I usually
 play at. Head to one of Huntsville's "Spring Parks", but not
-the Big one.* Look for my mission update near the start of the course.
+the Big one.* Look for my mission update behind a blue sign.
 
 \- JEH
 
