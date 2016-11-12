@@ -47,8 +47,8 @@ To determine which three are the true spies, try writing the **five
 Soviet codewords** on the grid rows printed on the **Metapuzzle**.
 Once you've discovered the correct order for each grid,
 **tilt your head right** slightly to make everything clear.
-(Remember that I gave you the first codeword, **`ONAIR`**, in your Mission
-Briefing; the other four codewords are hidden in **Puzzles A-D**.)
+(Remember that I gave you the first codeword in your Mission
+Briefing at the Toftoy Plaque; the other four codewords are hidden in **Puzzles A-D**.)
 
 When you think you have determined the three correct names from the list
 above, report the names of the three Soviet spies to my operative
