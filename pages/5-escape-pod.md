@@ -58,7 +58,7 @@ Thanks for your hard work, and good luck.
 
 \- JEH
 
----
+<!-- ---
 
 ### Links to previous Mission Updates
 
@@ -66,7 +66,7 @@ Thanks for your hard work, and good luck.
 * [Mission Update 1](/updates/27293401/vbc/)
 * [Mission Update 2](/updates/89001283/lowe-mill/)
 * [Mission Update 3](/updates/11291005/brahan-spring/)
-* [Mission Update 4](/updates/73629102/joe-davis-stadium/)
+* [Mission Update 4](/updates/73629102/joe-davis-stadium/) -->
 
 ---
 
