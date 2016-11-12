@@ -27,3 +27,14 @@ Don't forget to bring along a fully charged
 **handheld computer** (smartphone) with a **camera** and **QR Code reader**!
 
 \- JEH
+
+---
+
+### Links to all Mission Updates
+
+* [Mission Briefing](/updates/78234592/toftoy/)
+* [Mission Update 1](/updates/27293401/vbc/)
+* [Mission Update 2](/updates/89001283/lowe-mill/)
+* [Mission Update 3](/updates/11291005/brahan-spring/)
+* [Mission Update 4](/updates/73629102/joe-davis-stadium/)
+* [Final Mission Update](/updates/12945078/escape-pod/)
