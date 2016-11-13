@@ -9,7 +9,8 @@ Agents,
 
 I'm relieved you made it. **Puzzle B** in your *Agent Fieldbook* appears
 to be a clever Soviet encryption, utilizing data which may be found
-in this Lowe Mill mural. Our own spies have reported that you can
+in this [Lowe Mill mural](/img/lowe-mill-mural.jpg).
+Our own spies have reported that you can
 crack this code by following these instructions in order:
 
 * Starting with the second letter, **shift every 2nd letter** by the
@@ -22,10 +23,6 @@ crack this code by following these instructions in order:
 As an example, the letter **`J`** shifted by the number 7 is the letter **`Q`**,
 since **`Q`** is seven letters later in the alphabet. Don't forget to
 cycle back from **`Z`** to **`A`** when necessary!
-
-Before moving on, be sure to **photograph the full mural** for your records!
-You also must **photograph a teammate at this location for verification
-purposes**.
 
 *Your mission continues at a golf course, but not the kind I usually
 play at. Head to one of Huntsville's "Spring Parks", but not

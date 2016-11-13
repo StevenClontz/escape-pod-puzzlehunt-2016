@@ -30,6 +30,13 @@ Don't forget to bring along a fully charged
 
 ---
 
+### About the Game
+
+Von Braun's Puzzlehunt was created by game designer and professor
+Steven Clontz in partnership with Escape Pod. [[Read more...](/about/)]
+
+---
+
 ### Links to all Mission Updates
 
 * [Mission Briefing](/updates/78234592/toftoy/)

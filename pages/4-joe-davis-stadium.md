@@ -13,15 +13,11 @@ members of the military were given a discount.
 Leave it to the Soviets to use this information against us!
 Our sources say that to reveal the **final Soviet codeword** in
 **Puzzle D**, you must somehow **criss-cross** the first nine words related to
-military on the ticket booth sign: "ACTIVE" through "VETERANS".
-Furthermore, you'll need to use a
+military on the [ticket booth sign](/img/joe-davis-will-call.jpg):
+"ACTIVE" through "VETERANS". Furthermore, you'll need to use a
 well-known **tactile writing system** which replaces each letter
 with a 2x3 grid of pips, AND you'll need to **rotate the grid** to write
 some of the words. Devious...
-
-Don't neglect to **photograph the ticket prices** for your records.
-You also must **photograph a teammate at this location for verification
-purposes**.
 
 It's all about to come to a head. *Your final mission objective is
 outside the building where

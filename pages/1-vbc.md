@@ -9,16 +9,13 @@ Agents,
 
 Please refer to **Puzzle A** in your *Agent Fieldbook*. What appears
 to be a random grid of letters is actually a kind of **word search**.
-The key to this puzzle is the monument dedicated to Dr. von Braun
+The key to this puzzle is the [monument](/img/vbc-monument.jpg)
+dedicated to Dr. von Braun
 himself. It seems the number pairs below the letter grid are associated
 with lines and words on the monument,
 although they've **scrambled** the words a bit.
 Also, my sources suggest that it will be important to figure out why they
 included the word **"cross"** on the page.
-
-Make sure you **photograph the von Braun momument** for your records!
-You also must **photograph a teammate at this location for verification
-purposes**.
 
 Remember, as long as you have a photograph of the von Braun monument on
 your handheld computer, **you do not need to solve

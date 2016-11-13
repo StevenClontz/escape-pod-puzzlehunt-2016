@@ -13,7 +13,8 @@ It seems that **Puzzle C** of the *Agent Fieldbook* represents
 brackets for a **Hammer Plow Sickle** tournament between seven Soviet
 operatives. We're not sure of the rules, except that it's very similar
 to **Rock Paper Scissors**, and the rows of the below chart show how
-each operative plays against the others:
+each operative plays against the others (for example, Soviet Operative 6
+always uses Plow against Soviet Operative 2):
 
 <div class="table-wrapper">
   <table>
@@ -104,12 +105,9 @@ each operative plays against the others:
   </table>
 </div>
 
-Somehow they've used these tournament brackets along with the Brahan
-Spring Disc Golf rules to encode a **Soviet codeword**.
-
-Take care to **photograph the seven Disc Golf rules** for your records!
-You also must **photograph a teammate at this location for verification
-purposes**.
+Somehow they've used these tournament brackets along with the
+[Brahan Spring Disc Golf rules](/img/disc-golf-rules.jpg)
+to encode a **Soviet codeword**.
 
 On the topic of sports, *I think it's time we moved position to the
 former home of a true American pastime. The Stars may have moved on,
