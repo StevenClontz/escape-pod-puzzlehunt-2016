@@ -42,4 +42,7 @@ campuses across the country.
 Escape Pod ([@EscapePodGame](http://twitter.com/EscapePodGame)) is Huntsville's
 premier escape room venue, featuring challenges perfect for your next
 team-building event, not to mention the gamer or puzzle enthusiast in your life!
+Anyone with an affinity for mystery and puzzles will enjoy spending sixty minutes
+immersed in the enigmas contained in Von Braun's Office, the Spy's Lair,
+or a Return to Wonderland.
 To learn more, visit [EscapePodGame.com](http://www.escapepodgame.com/)!
