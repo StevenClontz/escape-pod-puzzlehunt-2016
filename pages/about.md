@@ -6,6 +6,8 @@ permalink: /about/
 alt-bg: true
 ---
 
+![#EPHunt16 Winners](/img/ephunt16-results.jpg)
+
 Von Braun's Puzzlehunt was created by game designer and professor
 [Steven Clontz](http://clontz.org) in partnership with
 [Escape Pod](http://www.escapepodgame.com/). A puzzlehunt is a live adventure
