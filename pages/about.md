@@ -10,15 +10,7 @@ Von Braun's Puzzlehunt was created by game designer and professor
 [Steven Clontz](http://clontz.org) in partnership with
 [Escape Pod](http://www.escapepodgame.com/). A puzzlehunt is a live adventure
 game taking place across a city or other area: think The Da Vinci Code
-crossed with puzzle video games like Myst. During the hunt, players had to race
-from location to location to gather the clues necessary for solving the five
-[puzzles](/escape-pod-puzzlehunt-2016.pdf) before their opposing teams,
-but we've added the needed information to each Mission Update so you can enjoy
-these puzzles from the
-comfort of your home. To play at home, download and print the
-[game book](/escape-pod-puzzlehunt-2016.pdf) and read each Mission Update from
-the [Von Braun's Puzzlehunt homepage](/). Can you name the identity of
-the three Soviet spies?
+crossed with puzzle video games like Myst.
 
 The story behind this hunt was inspired by
 [Von Braun's Office](http://escapepodgame.com/von-braun.html), Escape Pod's

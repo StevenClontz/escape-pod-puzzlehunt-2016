@@ -2,6 +2,7 @@
 layout: page
 description: "A team-based adventure in Huntsville, AL!"
 home-page: true
+permalink: /archived/
 ---
 
 Agents,
@@ -19,19 +20,16 @@ our operatives have uncovered around the City of Huntsville. You are our
 last line of defense in this crucial national security mission,
 and our fate lies in your hands!
 
-To complete this mission, you first need to download the
-[ClueKeeper app](https://cluekeeper.com/) from either the iOS App Store
-or Google Play, and purchase **Von Braun's Puzzlehunt** via
-the app or website. Your other requirement: obtain a
-[printed copy of the Soviet puzzles](/escape-pod-puzzlehunt-2016.pdf)
-which you will solve during your adventure. When you're ready, load up
-the mission on your phone, head towards Downtown Huntsville, and good luck!
+Good luck, and I'll be contacting you on
+**Saturday, November 12** at **10am**. Watch either the
+[Twttr](http://twitter.com/EscapePodGame) or
+[FB](http://fb.com/EscapePodGame) protocols at that time for instructions!
+Don't forget to bring the
+[agent fieldbook](/archived-escape-pod-puzzlehunt-2016.pdf)
+along a fully charged
+**handheld computer** (smartphone) with a **camera** and **QR Code reader**!
 
 \- JEH
-
-*The Cluekeeper version of the hunt is currently in a private
-beta. To play without the
-app, visit our [archived hunt page](/archived/)!*
 
 ---
 
@@ -39,3 +37,14 @@ app, visit our [archived hunt page](/archived/)!*
 
 Von Braun's Puzzlehunt was created by game designer and professor
 Steven Clontz in partnership with Escape Pod. [[Read more...](/about/)]
+
+---
+
+### Links to all Mission Updates
+
+* [Mission Briefing](/updates/78234592/toftoy/)
+* [Mission Update 1](/updates/27293401/vbc/)
+* [Mission Update 2](/updates/89001283/lowe-mill/)
+* [Mission Update 3](/updates/11291005/brahan-spring/)
+* [Mission Update 4](/updates/73629102/joe-davis-stadium/)
+* [Final Mission Update](/updates/12945078/escape-pod/)
