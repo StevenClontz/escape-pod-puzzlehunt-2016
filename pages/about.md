@@ -6,10 +6,6 @@ permalink: /about/
 alt-bg: true
 ---
 
-### Results
-
-<p><img src="/img/ephunt16-results.jpg" width="100%"></p>
-
 ### About the Game
 
 Von Braun's Puzzlehunt was created by game designer and professor
@@ -44,3 +40,9 @@ Anyone with an affinity for mystery and puzzles will enjoy spending sixty minute
 immersed in the enigmas contained in Von Braun's Office, the Spy's Lair,
 or a Return to Wonderland.
 To learn more, visit [EscapePodGame.com](http://www.escapepodgame.com/)!
+
+### Results
+
+Here are the winners from the live game played on 2016 November 12!
+
+<p><img src="/img/ephunt16-results.jpg" width="100%"></p>
