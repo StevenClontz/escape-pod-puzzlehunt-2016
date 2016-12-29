@@ -1,5 +1,6 @@
 ---
 layout: page
+title: "Von Braun's Puzzlehunt"
 description: "A team-based adventure in Huntsville, AL!"
 home-page: true
 ---
